@@ -1,0 +1,25 @@
+body{
+	height:700px;
+	width:700px;
+	display:flex;
+	flex-wrap: wrap; 
+	justify-content: center;
+	background-color: lightblue;
+	font-size: 100px;
+}
+
+div {
+	height:200px;
+	width:200px;
+	border:2px solid #000;
+	box-sizing: border-box;
+	padding:10px;
+}
+
+button{
+	display:block;
+	margin:50px;
+	height: 30px;
+	width:100px;
+}
+

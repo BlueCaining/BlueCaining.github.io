@@ -1,0 +1,20 @@
+/*list item*/
+#list-item li{
+	display:inline-block;
+}
+
+/*button of list item*/
+#list-item li button{
+	height:100px;
+	width: 300px;
+	font-size: 50px;
+	border-radius:8px;
+}
+
+/*images*/
+#images img{
+	dsiplay:inline-block;
+	width:200px;
+	height:200px;
+}
+
